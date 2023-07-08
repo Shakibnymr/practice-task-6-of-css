@@ -1,0 +1,13 @@
+img{
+    height: 300px;
+    width: 300px;}
+    p{
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    }
+    h1{
+    
+        text-align: center;
+    }
+    span{ background-color: darkblue;}
